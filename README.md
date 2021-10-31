@@ -3,6 +3,12 @@
 Objective:
 To predict whether the movie review entered by the user is a positive review or a negative review.
 
+Procedure:
+Used flask for interface and deployed on Heroku.
+
+Data Source link:
+
+
 Output screenshots:
 
 1. User will first enter the movie review in the home screen.
